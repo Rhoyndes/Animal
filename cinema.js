@@ -1,4 +1,4 @@
-import { positionPartBody } from '/animal.js'
+import { positionPartBody } from './animal.js'
 
 class Cinema{
     constructor(){
